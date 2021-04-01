@@ -16,7 +16,7 @@ section{
     justify-content:space-between;
     align-items: center;
     background: #111;
-    background:url(photos/imgbanner.jpg);
+    background:url(imgbanner.jpg);
     background-size:cover;
     background-position:right center;
 }
