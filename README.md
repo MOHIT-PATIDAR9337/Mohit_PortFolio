@@ -37,7 +37,7 @@
             </div>
             <div class="content">
                 <div class="w50">
-                    <img src="1.jpg" alt="Profile Photo" class="propic">
+                    <img src="1.png" alt="Profile Photo" class="propic">
                     <div class="contentBx w50">
                         <h2>Who am I ?</h2>
                         <h2>I'm <b>MOHIT KUMAR PATIDAR</b>, a B.Tech CSE 2nd Year Student</h2>
