@@ -138,8 +138,8 @@
 
         <section class="services" id="services">
             <div class="heading white">
-                <h2>My Services</h2>
-                <p>Services I Offer To My Clients</p>
+                <h2>My Work</h2>
+                <p>Willing to help</p>
             </div>
            
 
