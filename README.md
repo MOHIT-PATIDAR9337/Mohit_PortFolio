@@ -40,21 +40,21 @@
                     <img src="mohit.jpg" alt="Profile Photo" class="propic">
                     <div class="contentBx w50">
                         <h2>Who am I ?</h2>
-                        <h2>I'm <b>MOHIT KUMAR PATIDAR</b>, a B.Tech CSE 2nd Year Student</h2>
-                        <p>I am a 2nd year cse student from SRMIST,Kattankulathur.
-                          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue ac magna vel dapibus. Suspendisse et ultrices sapien. In fermentum mattis sapien, non rhoncus lorem eleifend et. Sed consectetur nisl in sapien consequat aliquet. Phasellus lacinia porta turpis, ac feugiat magna accumsan eu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam suscipit tempus nulla sit amet tincidunt.
-
+                        <h2>I'm <b>MOHIT KUMAR PATIDAR</b>, a B.Tech CSE 4rth Year Student</h2>
+                        <p>I am a 4rth year cse student from SRMIST,Kattankulathur.
+                         Being a student of Computer Science and Engineering, I always had a knack of learning and trying out new things! I am a passionate Web developer with good communication skills and engaged in  programming.
 
                         </p><br>
-                        <p>I Spend My Time in Singing
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue ac magna vel dapibus. Suspendisse et ultrices sapieLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue ac magna vel dapibus. Suspendisse et ultrices sapien. In fermentum mattis sapien, non rhoncus lorem eleifend et. Sed consectetur nisl in sapien consequat aliquet. Phasellus lacinia porta turpis, ac feugiat magna accumsan eu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam suscipit tempus nulla sit amet tincidunt.n. In fermentum mattis sapien, non rhoncus lorem eleifend et. Sed consectetur nisl in sapien consequat aliquet. Phasellus lacinia porta turpis, .. </p>
+                        <p>I Spend My Time in Coding
+                             </p>
                             <div class="heading bottom">
-                                <a href="Mohit PatidarCurriculum Vitae.doc" target="_blank" class="btn round">DOWNLOAD CV</a>
+                                <a href="https://drive.google.com/file/d/1zMBshKT5ZYcAPqoOWSITpGtOnmfcymMC/view?usp=sharing" target="_blank" class="btn round">DOWNLOAD CV</a>
                                 <div class="bt">
                                     <b>Name:</b>MOHIT KUMAR PATIDAR<br>
-                                    <b>Age:</b> 21
+                                    <b>Age:</b> 23
                                 </div>
                                 <div class="bt">
+                                <b>Email:</b>patidarmohit9771@gmail.com<br>
                                     <b>Email:</b>mk8820@srmist.edu.in<br>
                                     <b>Location:</b> INDIA
                                 </div>
@@ -69,6 +69,26 @@
                 <h2>My Skills</h2>
             </div>
             <div class="skills-bar">
+            <div class="bar">
+                    <div class="info">
+                        <span>React</span>
+                    </div>
+                    <div class="progress-line html"><span></span></div>
+                </div>
+                
+                <div class="bar">
+                    <div class="info">
+                        <span>Node.JS</span>
+                    </div>
+                    <div class="progress-line html"><span></span></div>
+                </div>
+                <div class="bar">
+                    <div class="info">
+                        <span>MongoDB</span>
+                    </div>
+                    <div class="progress-line html"><span></span></div>
+                </div>
+                
                 <div class="bar">
                     <div class="info">
                         <span>HTML</span>
@@ -121,28 +141,18 @@
                 <h2>My Services</h2>
                 <p>Services I Offer To My Clients</p>
             </div>
-            <div class="content">
-                <div class="servicesBx">
-                    <i class="fa fa-pencil-square-o fa-5x"></i>
-                    <h3>Graphic Designing</h3>
-                    <p>Skills/Tools : Canva,Photoshop,Lightroom</p>
-                </div>
+           
 
 
                     <!--icons from font awesome bootstrap cheatsheet-->
 
                 <div class="servicesBx">
-                    <i class="fa fa-android fa-5x"></i>
-                    <h3>App Development</h3>
-                    <p>Skills/Tools : Android Studio , Kotlin</p>
+                
+                    <i class="fa-solid fa-browser fa-5x"></i>
+                    <h3>Web  Development</h3>
+                    <p>Skills/Tools : Vscode , MERN</p>
 
-                </div>
-                <div class="servicesBx">
-                    <i class="fa fa-fighter-jet fa-5x"></i>
-                    <h3>3D Modeling</h3>
-                    <p>Skills/Tools : Blender 3D</p>
-
-                </div>
+                
                 <div class="servicesBx">
                     <i class="fa fa-html5 fa-5x"></i>
                     <h3>Front-End Web Development/Designing</h3>
