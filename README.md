@@ -169,7 +169,7 @@
             <div class="content">
                 <div class="contactInfo">
                     <h3>Contact Info</h3>
-                    <p>Always available for freelancing work . If right project come along , Feel free to contact me!</p>
+                    
                     <div class="contactInfoBx">
                         <div class="box">
                             <div class="icon">
