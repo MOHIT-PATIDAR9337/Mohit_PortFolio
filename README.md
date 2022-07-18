@@ -25,7 +25,7 @@
 
         <section class="banner" id="home">
             <div class="textBx">
-                <h2>Hello, I'm<br> <span>MOHIT KUMAR PATIDAR</span></h2>
+                
                 <h3>I'm a <span class="typed-text">Learner</span><span class="cursor">&nbsp;</span></h3><br>
                 <a href="#about" class="btn">About Me</a>
             </div>
