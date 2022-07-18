@@ -32,7 +32,7 @@
         </section>
         <section class="about" id="about">
             <div class="heading">
-                <p>Get to Know me</p>
+                <p>Get to Know </p>
                 <h2>About Me</h2>
             </div>
             <div class="content">
@@ -56,7 +56,7 @@
                                 <div class="bt">
                                 <b>Email:</b>patidarmohit9771@gmail.com<br>
                                     <b>Email:</b>mk8820@srmist.edu.in<br>
-                                    <b>Location:</b> INDIA
+                                    <b>Location:</b> INDORE,INDIA
                                 </div>
                             </div>
                     </div>
@@ -177,7 +177,7 @@
                             </div>
                             <div class="text">
                                 <h3>Address</h3>
-                                <address>Jirapur ,<br> Indore ,<br>MadhyaPradesh,<br> India ,<br> 465691 </address>
+                                <address><br> Indore ,<br>MadhyaPradesh,<br> India ,<br> 465691 </address>
                             </div>
                         </div>
                         <div class="box">
